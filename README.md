@@ -1,4 +1,4 @@
-![](food.png)
+![](Images/food.png)
 
 # Food Delivery App Data Analysis
 Author: Volha Puzikava
@@ -22,7 +22,7 @@ Prerequisites for the project were the following:
 ## Pre-Processing the Data 
 Data Pre-processing is one of the important steps in data analytics because data that is not processed can lead to different unwanted results when the data will be used for further applications. This task included sub-tasks such as handling null values, deletion or transformation of irrelevant values, datatype transformation, removing duplicates, etc.
 
-![](guide.png)
+![](Images/guide.png)
 
 ### 1. Removing Unwanted Columns
 Removing unwanted columns refers to the process of eliminating irrelevant or unnecessary columns from a dataset. This can improve data analysis and visualization by reducing clutter and focusing on the most important information. It involves identifying and selecting the columns to be removed and executing the removal process using tools like programming languages, database management systems, or spreadsheet software.
